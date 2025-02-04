@@ -17,3 +17,16 @@
 5. 2022- RLHF and ChatGPT
 6. 2023 -GPT4
 7. 2024- GPT4o
+
+## Topic: Context Window
+- Max number of tokens that model can consider when generating output.  
+- Include original i/p text, prompt, subsequent text, etc.
+- it governs how well model can remember and generate coherent text.
+
+## 1st Project: Web Scraping
+- using BeautifulSoup library
+- llm used = Ollama, Gemini
+
+## Business Problem:
+Creating a product that can generate marketing broucher about a company (for clients, investors, rectuitment)
+Tech (Gemini API, one shot prompting, stream result)
